@@ -1,2 +1,2 @@
 # hello-world
-A time-honored newbie tradition
+A time-honored newbie tradition.
